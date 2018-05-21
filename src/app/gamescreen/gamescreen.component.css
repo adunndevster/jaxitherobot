@@ -1,0 +1,11 @@
+.code-area
+{
+    background-color: #000000;
+    height: 100vh;
+}
+
+.game-area
+{
+    background-color: #FFDDDD;
+    height: 100vh;
+}
